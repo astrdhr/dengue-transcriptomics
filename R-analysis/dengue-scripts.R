@@ -1,6 +1,6 @@
 # Exploratory Analysis of Dengue Transcriptomic Data
 # Date: Monday 23rd November 2020
-# Author: Anima Sutradhar
+# Author: AS
 
 # Aim: To gain insights into molecular mechanisms underlying host response to DENV infection, through:
 # (1) visualising relationships between gene expression profiles of four patient populations; and
